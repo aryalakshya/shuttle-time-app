@@ -1,6 +1,0 @@
-apiKey: "AIzaSyBhY4KAcrfU5w9oHMMSLvMHzBCT28o_muA",
-authDomain: "badminton-booking-app-e87f9.firebaseapp.com",
-projectId: "badminton-booking-app-e87f9",
-storageBucket: "badminton-booking-app-e87f9.firebasestorage.app",
-messagingSenderId: "731192384155",
-appId: "1:731192384155:web:4a530f9202439052ee043e"
